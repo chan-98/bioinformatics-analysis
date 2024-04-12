@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 
 """
+Chandini
+12/04/2024
+
 Script to replace IUPAC alleles in consensus with max-depth base from mpileup and create new consensus.
 Usage:
         python3 generate_new_consensus.py consensus.fasta mpileup.txt consensus_replaced.fasta
